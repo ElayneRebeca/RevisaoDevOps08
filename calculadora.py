@@ -1,5 +1,4 @@
-# calculadora.py
-# Calculadora simples com tratamento de erros e suporte a operações básicas
+# Calculadora Elayne Rebeca
 
 def somar(a, b):
     return a + b
